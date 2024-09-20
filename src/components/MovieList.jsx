@@ -27,7 +27,7 @@ const MovieList = () => {
 
   // Loader
   const loader = (
-    <div className="loader">
+    <div className="loader mt-40">
       <div className="loading-text">
         Loading<span className="dot">.</span><span className="dot">.</span><span className="dot">.</span>
       </div>
